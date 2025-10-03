@@ -42,8 +42,8 @@ Import the provided .sql file (like database.sql or db.sql from the cloned repo)
 
 📝 Don’t have a .sql file?
 
-Ask the developer or team to export the WordPress database via phpMyAdmin:
-Export → Quick → SQL → Go
+[testing.sql](https://github.com/user-attachments/files/22678753/testing.sql)
+
 
 3️⃣ Configure wp-config.php
 
