@@ -64,7 +64,7 @@ Start Apache and MySQL
 
 Go to:
 
-http://localhost/voiceoftruth/
+http://localhost/test/
 
 
 🎉 You should see your WordPress site!
