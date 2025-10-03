@@ -68,3 +68,6 @@ http://localhost/voiceoftruth/
 
 
 🎉 You should see your WordPress site!
+
+<img width="1917" height="972" alt="image" src="https://github.com/user-attachments/assets/99a546b7-35b1-4aea-8ae4-926e75ba2445" />
+
