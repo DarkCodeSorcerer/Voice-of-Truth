@@ -21,7 +21,6 @@ WordPress news website project with local setup.
 Open Git Bash / Terminal and run:
 
 cd /path/to/htdocs  # For XAMPP
-# OR for LocalWP, go to the site folder
 
 git clone https://github.com/DarkCodeSorcerer/Voice-of-Truth.git
 
