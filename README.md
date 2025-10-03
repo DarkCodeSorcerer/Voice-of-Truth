@@ -23,7 +23,7 @@ Open Git Bash / Terminal and run:
 cd /path/to/htdocs  # For XAMPP
 # OR for LocalWP, go to the site folder
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/DarkCodeSorcerer/Voice-of-Truth.git
 
 
 ✅ This will create a folder like:
@@ -65,7 +65,7 @@ Start Apache and MySQL
 
 Go to:
 
-http://localhost/your-repo-name/
+http://localhost/voiceoftruth/
 
 
 🎉 You should see your WordPress site!
